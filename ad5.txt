@@ -1,8 +1,0 @@
-[Adblock Plus 2.0]
-! Title: AdFilters
-! Expires: 12 hours
-! Version: 201904060800
-! Last Modified: 2019年04月06日 08:00
-! Homepage: https://adf.minggo.eu.org
-! Redirect: https://gitee.com/halflife/list/raw/master/ad3.txt
-!
