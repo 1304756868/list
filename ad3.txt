@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UL5+CIj0xXL0gitL5YHFAQ
+! Checksum: rwgfhDZIdS1IZCg7We6xXQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202003191830
-! Last Modified: 2020年03月19日 18:30
+! Version: 202003191900
+! Last Modified: 2020年03月19日 19:00
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
@@ -20133,6 +20133,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -google-tag-manager/$script
 -heatmaps-analytics/
 -imppix/
+-inview-tracker.
 -javascript_xiti_
 -kameleoon.js
 -kameleoon.min.js

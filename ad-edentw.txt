@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ym2OSzrOJjw0UTJfyROQXw
+! Checksum: 9MICCiZFy5etz3ZklhzcBA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202003191830
-! Last Modified: 2020年03月19日 18:30
+! Version: 202003191900
+! Last Modified: 2020年03月19日 19:00
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
@@ -1138,7 +1138,7 @@ fast-film.org,fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fas
 anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv.afterAdblockCheck
 ! Popups & Popunders
-assiatv.com,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
+xittv.net,assiatv.com,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
 ! #20468
 ! #21363
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
