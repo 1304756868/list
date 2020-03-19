@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: D2Xjp0yK4OlUgGTlvowXNA
+! Checksum: xNifS7AN4NH/LAa2mM3N5g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202003191400
-! Last Modified: 2020年03月19日 14:00
+! Version: 202003191730
+! Last Modified: 2020年03月19日 17:30
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
@@ -8687,8 +8687,11 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||tukergo.com/img/alipay
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+tukergo.com##.guanggaoBox
+tukergo.com##SECTION[class^="ch"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
